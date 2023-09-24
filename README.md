@@ -12,7 +12,7 @@ Real-Time Processing: Extract text swiftly, making it suitable for applications 
 Customizable and Scalable: Tailor the system to specific requirements, whether for document digitization, data entry automation, or content indexing.
 
 ## Applications
-Document digitization
-Data entry automation
-Content indexing
-And more!
+- Document digitization
+- Data entry automation
+- Content indexing
+- And more!
